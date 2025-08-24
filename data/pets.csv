@@ -1,0 +1,17 @@
+id,name,type,breed,age,description,status,health_status
+DOG001,Buddy,Dog,Golden Retriever,3,Friendly and energetic,Adopted,Vaccinated
+CAT001,Whiskers,Cat,Siamese,2,Calm and affectionate,Adopted,Not Vaccinated
+DOG002,Max,Dog,Labrador,5,Loves to play fetch,Adopted,Vaccinated
+DOG003,Rock,Dog,German Shepherd,3,Alert and loyal,Adopted,Not Vaccinated
+DOG004,Bosco,Dog,Doberman,2,"Highly energetic, good with children and excellent guard dog",Available,vaccinated
+CAT004,Stewie,Cat,American bobtail,1,"Lively, jumps a lot and loves to play with children",Available,Vaccinated
+DOG005,Archie,Dog,Dalmatian,4,Loves to swim and play in puddles,Adopted,neuteured
+CAT001,Taffy,Cat,Siberian,6,"Senior, quiet and likes to sleep",Adopted,Vaccinated
+CAT002,Rockie,Cat,Persian,8,"Senior but still playful, takes frequent naps",Adopted,Neutered
+CAT001,Sissy,Cat,Japanese bobtail,2,Always excited and can do tricks,Available,Vaccinated
+CAT002,Syenna,Cat,Devon rex,4,Graceful and curious,Available,Neuteured
+DOG001,Ryo,Dog,Dalmatian,2,A bundle of energy and loyal,Adopted,Vaccinated
+DOG001,Rex,Dog,Labrador,2,Trained and playful,Adopted,Vaccinated
+CAT001,Griffy,Cat,Labrador,4,Fluffy and potty trained,Adopted,neutered
+DOG001,Coffee,Dog,Beagle,1,"Joyful, knows how to greet people by giving its paw",Available,Vaccinated
+DOG002,Cookie,Dog,Belgian Malinois,5,"Well traines, loyal and excellent guard dog",Available,Neutered

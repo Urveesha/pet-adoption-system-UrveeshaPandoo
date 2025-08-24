@@ -1,0 +1,14 @@
+[
+  {
+    "pet_id": "CAT002",
+    "name": "Rockie",
+    "adopter": "samlo",
+    "date": "2025-08-24 11:03"
+  },
+  {
+    "pet_id": "CAT001",
+    "name": "Griffy",
+    "adopter": "Reena Peter",
+    "date": "2025-08-24 11:09"
+  }
+]
