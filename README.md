@@ -53,7 +53,7 @@ cd pet-adoption-system-UrveeshaPandoo-22402581
 
 ## Create and activate a virtual environment
 
-python -m venv venv
+python3 -m venv venv
 # Windows
 venv\Scripts\activate
 # Mac/Linux
@@ -130,6 +130,7 @@ CAT001,Whiskers,Cat,Siamese,2,Calm and affectionate,Adopted,Not Vaccinated
 
 Urveesha Pandoo
 Project completed as part of a Python programming assignment.
+
 
 
 
