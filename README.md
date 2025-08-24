@@ -72,6 +72,10 @@ You will see a friendly menu as such:
 
 ================= 🐶 Welcome to the Pet Shelter System 🐱 =================
 
+🐾 Please choose an option:
+
+════════════════════════════
+
 ➊ List all pets
 
 ➋ Add a new pet
@@ -89,6 +93,10 @@ You will see a friendly menu as such:
 ➑ View adoption log
 
 ➒ Exit
+
+════════════════════════════
+
+👉 Enter your choice (1-9):
 
 ## 📦 Running Unit Tests
 All features are fully tested using Python’s unittest.
@@ -122,6 +130,7 @@ CAT001,Whiskers,Cat,Siamese,2,Calm and affectionate,Adopted,Not Vaccinated
 
 Urveesha Pandoo
 Project completed as part of a Python programming assignment.
+
 
 
 
