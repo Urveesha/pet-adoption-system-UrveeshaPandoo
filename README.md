@@ -47,8 +47,8 @@ Each pet has the following attributes:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Urveesha/pet-shelter-system.git
-cd pet_shelter_system
+git clone https://github.com/Urveesha/pet-adoption-system-UrveeshaPandoo-22402581.git
+cd pet-adoption-system-UrveeshaPandoo-22402581
 ```
 
 ## Create and activate a virtual environment
@@ -130,6 +130,7 @@ CAT001,Whiskers,Cat,Siamese,2,Calm and affectionate,Adopted,Not Vaccinated
 
 Urveesha Pandoo
 Project completed as part of a Python programming assignment.
+
 
 
 
