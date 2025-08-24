@@ -73,13 +73,21 @@ You will see a friendly menu as such:
 ================= 🐶 Welcome to the Pet Shelter System 🐱 =================
 
 ➊ List all pets
+
 ➋ Add a new pet
+
 ➌ Search for a pet
+
 ➍ Adopt a pet
+
 ➎ Display pet details
+
 ➏ Save shelter data
+
 ➐ Load shelter data
+
 ➑ View adoption log
+
 ➒ Exit
 
 ## 📦 Running Unit Tests
@@ -114,5 +122,6 @@ CAT001,Whiskers,Cat,Siamese,2,Calm and affectionate,Adopted,Not Vaccinated
 
 Urveesha Pandoo
 Project completed as part of a Python programming assignment.
+
 
 
